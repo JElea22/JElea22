@@ -1,16 +1,14 @@
-## Hi there 👋
+## About Me👋
 
-<!--
 **JElea22/JElea22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working for Forage Company, while enrolled in CPCC majoring in Data Analytics, as well as a participant in the Year Up United program!
+- 🌱 I’m currently learning SQL, Power BI, Data visualization techniques, Excel, and machine learning fundamentals.
+- 👯 I’m looking to collaborate on Data- driven projects, challenges, and open- source contributions.
+- 🤔 I’m looking for help with refining my skills in Data Analytics and advancing.
+- 💬 I'm passionate about my goals and advancing my career in Data Analytics, and eventually exploring other career fields to help gain expertise with different areas and aspects.
+- 📫 How to reach me:* www.linkedin.com/in/jasmine-davis-2f3fa
+- *Jasminedavis2266@gmail.com
+- 😄 Pronouns: She/Her/Hers
+- ⚡ Fun fact: I absolutely love dogs and have a fur baby named Benji!
